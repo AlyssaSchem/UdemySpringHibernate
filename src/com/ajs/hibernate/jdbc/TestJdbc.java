@@ -1,4 +1,4 @@
-package com.ajs.jdbc;
+package com.ajs.hibernate.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
